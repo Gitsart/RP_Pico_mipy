@@ -4,3 +4,12 @@ Pico can be used with both C and MicroPython.
 For programming in C refer through the pico SDK installation manual - getting started with pico: https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
 Detailed datasheet for hardware SoC and pinout diagram is included. Kindly refer for GPIO pin numbers & functions, operating conditions and other hardware details.
 
+*Here we are programming the pico using MicroPython. For installing the MiPy F/w follow:
+1)Download the UF2 file for pico model : micropython.org/downloads/
+2)Connect pico as a USB storage device to our computer, by press and holding the bootselect button while connecting the pico to the PC USB port.
+3)Copy the UF2 file to the pico storage.
+4) The board will reboot now.
+5) Install and open Thonny IDE : thonny.org
+6)Choose the board raspberry pi pico in the Thonny editor.
+
+All set to program the pico .
